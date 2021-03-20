@@ -1,1 +1,1 @@
-worker: python3 Luna.py
+worker: python3 bot.py
