@@ -7,9 +7,9 @@ from pyrogram import Client, filters
 
 luna = Client(
     ":memory:",
-    bot_token=bot_token,
-    api_id=6,
-    api_hash="eb06d4abfb49dc3eeb1aeb98ae0f581e",
+    bot_token=1582636407:AAGuKzkSdzblLiJKqfPbJ9tFeGQKPi7h_PM,
+    api_id=2443183,
+    api_hash="66b6799e1b784aff78bad680cd8362db",
 )
 
 blacklisted = []
