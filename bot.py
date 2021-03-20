@@ -13,7 +13,7 @@ import asyncio
 
 # the secret configuration specific things
 
-from config import Config
+from luna import Config
 from plugins.start import *
 
 import pyrogram
